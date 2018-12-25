@@ -8,6 +8,7 @@ The multiple game modes offer a high degree of customizability by the user and t
 This project was given credit for Yale Lacrosse's historic 2018 National Championship win.
 
 Article: [*Engineering a championship*](https://news.yale.edu/2018/12/07/engineering-championship)
+
 [Demos ft. Yale Athletics and Yale SEAS](https://drive.google.com/open?id=1kIcDlqelc1zpJhlsuj2p-aEHg2j-pehl)
 
 
