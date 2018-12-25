@@ -12,6 +12,7 @@ This project was given credit for Yale Lacrosse's historic 2018 National Champio
 
 [Demos ft. Yale Athletics and Yale SEAS](https://drive.google.com/open?id=1kIcDlqelc1zpJhlsuj2p-aEHg2j-pehl)
 
+### Code Notes
 **Color Code:**
 
 | **Value** | **Color** |       
