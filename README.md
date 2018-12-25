@@ -1,6 +1,6 @@
-**# Megatrainer-6000**
+# **Megatrainer-6000**
 
-**## Yale Athletics Department, Yale Lacrosse——Reaction Training Board**
+## **Yale Athletics Department, Yale Lacrosse——Reaction Training Board**
 
 This code was created for a reaction training board with 15 buttons capable of displaying RGB LEDs.
 The board was created to train the reaction times of various Yale athletes and create an environment conducive to simulating psychologic stressors an athlete can encounter during a game.
