@@ -39,6 +39,11 @@ _**Recorded:** reaction time and accuracy_
 ### All-At-Once (Light Array)
 One correct color, all lights go off
 
+``` C++
+int rightColor = 2;  // can be customized
+int runs = 10;       // total amount of times to display light arra
+```
+
 _**Recorded:** time taken to hit all correct buttons in a light array and incorrect hits_
 
 ### Scramble (Light Array)
