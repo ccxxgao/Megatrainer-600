@@ -11,14 +11,13 @@ Article: [*Engineering a Championship*](https://news.yale.edu/2018/12/07/enginee
 
 [Demos ft. Yale Athletics and Yale SEAS](https://drive.google.com/open?id=1kIcDlqelc1zpJhlsuj2p-aEHg2j-pehl)
 
-
+|   Color Code  |
 | Value | Color |       
 | ----- |:-----:|
 | 1     | red   |
 | 2     | green |
 | 3     | blue  |
 | 4     | off   |
-**Color code:** 1 = red; 2 = green; 3 = blue; 4 = off
 
 **Single Light** = one button flashes at a time
 
