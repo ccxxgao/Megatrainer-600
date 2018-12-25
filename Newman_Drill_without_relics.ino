@@ -5,14 +5,13 @@
  * 4 = off
  */
 int rightColor = 3;  // can be customized
-unsigned long len = 30; // can be customized, length of session in milliseconds
-                                         // seconds x 1000
+unsigned long len = 30; // can be customized, length of session in seconds
 float exposure_time = 0.7;  // can be customized, length of exposure in seconds before scramble                                         
 
 ///////////////////////////////////////////////////////////////////////////////
 
-unsigned long exposure = exposure_time*1000;    // ms to s
-unsigned long length_of_session = len*1000;     // ms to s
+unsigned long exposure = exposure_time*1000;    // s to ms
+unsigned long length_of_session = len*1000;     // s to ms
 int num_incorrect = 0;
 int num_correct = 0;
 int total_incorrect = 0;
