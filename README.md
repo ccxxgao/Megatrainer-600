@@ -17,7 +17,7 @@ Article: [*Engineering a championship*](https://news.yale.edu/2018/12/07/enginee
 
 **Light Array = all 15 buttons flash at a time**
 
-### Disappearing Whack-a-Mole (Single Light)
+### **Disappearing Whack-a-Mole (Single Light)**
 Buttons are exposed only for a set time before they disappear
 
 Customizable frequency, useful for stamina training
