@@ -44,6 +44,11 @@ _**Recorded:** time taken to hit all correct buttons in a light array and incorr
 ### Scramble (Light Array)
 Correct light; if incorrect button is hit, lights are scrambled
 
+``` C++
+int rightColor = 2;  // can be customized
+int session_length = 20; // can be customized, length of session in seconds
+```
+
 _**Recorded:** average reaction time, total hits, and accuracy_
 
 ### D-Line Drill (Light Array)
