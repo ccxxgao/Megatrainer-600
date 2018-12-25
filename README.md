@@ -7,7 +7,8 @@ The board was created to train the reaction times of various Yale athletes and c
 The multiple game modes offer a high degree of customizability by the user and target different aspects of human reaction (time, accuracy, stamina).
 This project was given credit for Yale Lacrosse's historic 2018 National Championship win.
 
-Article: [*Engineering a Championship*](https://news.yale.edu/2018/12/07/engineering-championship)
+### Media
+**Article:** [*Engineering a Championship*](https://news.yale.edu/2018/12/07/engineering-championship)
 
 [Demos ft. Yale Athletics and Yale SEAS](https://drive.google.com/open?id=1kIcDlqelc1zpJhlsuj2p-aEHg2j-pehl)
 
