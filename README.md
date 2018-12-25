@@ -11,8 +11,7 @@ Article: [*Engineering a Championship*](https://news.yale.edu/2018/12/07/enginee
 
 [Demos ft. Yale Athletics and Yale SEAS](https://drive.google.com/open?id=1kIcDlqelc1zpJhlsuj2p-aEHg2j-pehl)
 
-Color Code:
-
+**Color Code:**
 | Value | Color |       
 | ----- |:-----:|
 | 1     | red   |
