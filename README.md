@@ -13,9 +13,11 @@ Article: [*Engineering a Championship*](https://news.yale.edu/2018/12/07/enginee
 
 
 
-**Single Light = one button flashes at a time**
+**Color code:** 1 = red; 2 = green; 3 = blue; 4 = off
 
-**Light Array = all 15 buttons flash at a time**
+**Single Light** = one button flashes at a time
+
+**Light Array** = all 15 buttons flash at a time
 
 ### Disappearing Whack-a-Mole (Single Light)
 Buttons are exposed only for a set time before they disappear
