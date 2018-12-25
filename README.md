@@ -44,6 +44,10 @@ Must hit *x* amount of correct buttons in a row
 
 If incorrect button is hit, light array is scrambled, and button count starts from 0
 
+``` C++
+int rightColor = 2;  // can be customized
+```
+
 _**Recorded:** total time taken to hit x correct buttons in a row and incorrect hits_
 
 ### Newman Drill (Light Array)
