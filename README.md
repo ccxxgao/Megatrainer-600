@@ -46,6 +46,7 @@ If incorrect button is hit, light array is scrambled, and button count starts fr
 
 ``` C++
 int rightColor = 2;  // can be customized
+int hits = 40;       // can be customized, the number of correct hits in a row needed to finish the session
 ```
 
 _**Recorded:** total time taken to hit x correct buttons in a row and incorrect hits_
