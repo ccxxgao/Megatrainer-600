@@ -16,7 +16,7 @@ This project was given credit for Yale Lacrosse's historic 2018 National Champio
 ### Disappearing Whack-a-Mole (Single Light)
 Buttons are exposed only for a set time before they disappear
 Customizable frequency, useful for stamina training
-**_Recorded:** reaction time and hit rate_
+_**Recorded:** reaction time and hit rate_
 
 ### Whack-a-Mole with Dummies (Single Light)
 One correct color; “dummy” buttons thrown in
