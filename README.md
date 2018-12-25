@@ -53,4 +53,10 @@ One correct color, runs for *x* seconds
 
 Light array is exposed for a customizable time (e.g. 0.4 s) before scrambling
 
+'''int rightColor = 3;  // can be customized
+unsigned long len = 30; // can be customized, length of session in milliseconds
+                                         // seconds x 1000
+float exposure_time = 0.7;  // can be customized, length of exposure in seconds before scramble
+'''
+
 _**Recorded:** correct and incorrect hits, accuracy_
