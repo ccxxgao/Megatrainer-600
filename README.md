@@ -49,7 +49,7 @@ _**Recorded:** total time taken to hit x correct buttons in a row and incorrect 
 ### Newman Drill (Light Array)
 *Known to bring any athlete——from tennis players to football stars——to tears. Named in honor of the Yale Strength Coach, Thomas Newman.*
 
-One correct color, runs for x seconds
+One correct color, runs for *x* seconds
 
 Light array is exposed for a customizable time (e.g. 0.4 s) before scrambling
 
